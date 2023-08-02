@@ -1,0 +1,3 @@
+# Covid19_DataAnalysis.
+
+THIS FILE OPEN IN ONLY POWER BI.
